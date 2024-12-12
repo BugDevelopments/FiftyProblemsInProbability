@@ -1,2 +1,5 @@
 theme: minima
 include: _posts
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
